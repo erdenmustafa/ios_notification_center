@@ -6,8 +6,6 @@ Desc
 
 - Cocoapods
 - SQLite
-- RestApi
-- JSON
 - Struct
 
 <hr/>
